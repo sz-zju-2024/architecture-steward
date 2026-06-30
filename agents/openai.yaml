@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Steward"
+  short_description: "Keep complex codebases clean and layered"
+  default_prompt: "Use $architecture-steward to plan, implement, and review a complex code change with clear boundaries."
